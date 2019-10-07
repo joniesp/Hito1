@@ -1,0 +1,22 @@
+    * {
+        background-color: rgb(33, 34, 34);
+        color: rgb(179, 162, 162);
+    }
+    
+    div {
+        background-color: rgb(78, 76, 76);
+        color: lightgrey;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        margin-right: 450px;
+        margin-left: 450px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+    
+    img {
+        margin-top: 150px;
+        width: 250px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        margin: auto;
+        display: block;
+    }
